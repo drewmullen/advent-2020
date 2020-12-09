@@ -5,7 +5,7 @@
 # unless sum over 2020
 # find_2_nums_that_add_to_sum 
 
-from d1p1 import *
+from p1 import *
 
 TOTAL = 2020
 
